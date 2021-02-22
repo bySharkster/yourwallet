@@ -1,0 +1,27 @@
+{
+  "name": "yourwallet",
+  "version": "1.0.0",
+  "description": "MERN shooping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bySharkster/yourwallet.git"
+  },
+  "keywords": [
+    "react",
+    "php",
+    "js"
+  ],
+  "author": "Ferdithor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bySharkster/yourwallet/issues"
+  },
+  "homepage": "https://github.com/bySharkster/yourwallet#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
